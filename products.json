@@ -1,54 +1,54 @@
 {
-    "products": [
-        {
-            "title": "Product 1",
-            "price": "31 $",
-            "imageUrl": "https://prd.place/400?id=1"
-        },
-        {
-            "title": "Product 2",
-            "price": "45 $",
-            "imageUrl": "https://prd.place/400?id=2"
-        },
-        {
-            "title": "Product 3",
-            "price": "27 $",
-            "imageUrl": "https://prd.place/400?id=3"
-        },
-        {
-            "title": "Product 4",
-            "price": "34 $",
-            "imageUrl": "https://prd.place/400?id=4"
-        },
-        {
-            "title": "Product 5",
-            "price": "10 $",
-            "imageUrl": "https://prd.place/400?id=5"
-        },
-        {
-            "title": "Product 6",
-            "price": "25 $",
-            "imageUrl": "https://prd.place/400?id=6"
-        },
-        {
-            "title": "Product 7",
-            "price": "53 $",
-            "imageUrl": "https://prd.place/400?id=7"
-        },
-        {
-            "title": "Product 8",
-            "price": "43 $",
-            "imageUrl": "https://prd.place/400?id=8"
-        },
-        {
-            "title": "Product 9",
-            "price": "64 $",
-            "imageUrl": "https://prd.place/400?id=9"
-        },
-        {
-            "title": "Product 10",
-            "price": "34 $",
-            "imageUrl": "https://prd.place/400?id=10"
-        }
-    ]
+  "products": [
+    {
+      "title": "Product 1",
+      "price": "31 $",
+      "imageUrl": "https://picsum.photos/400?random=1"
+    },
+    {
+      "title": "Product 2",
+      "price": "45 $",
+      "imageUrl": "https://picsum.photos/400?random=2"
+    },
+    {
+      "title": "Product 3",
+      "price": "27 $",
+      "imageUrl": "https://picsum.photos/400?random=3"
+    },
+    {
+      "title": "Product 4",
+      "price": "34 $",
+      "imageUrl": "https://picsum.photos/400?random=4"
+    },
+    {
+      "title": "Product 5",
+      "price": "10 $",
+      "imageUrl": "https://picsum.photos/400?random=5"
+    },
+    {
+      "title": "Product 6",
+      "price": "25 $",
+      "imageUrl": "https://picsum.photos/400?random=6"
+    },
+    {
+      "title": "Product 7",
+      "price": "53 $",
+      "imageUrl": "https://picsum.photos/400?random=7"
+    },
+    {
+      "title": "Product 8",
+      "price": "43 $",
+      "imageUrl": "https://picsum.photos/400?random=8"
+    },
+    {
+      "title": "Product 9",
+      "price": "64 $",
+      "imageUrl": "https://picsum.photos/400?random=9"
+    },
+    {
+      "title": "Product 10",
+      "price": "34 $",
+      "imageUrl": "https://picsum.photos/400?random=10"
+    }
+  ]
 }
